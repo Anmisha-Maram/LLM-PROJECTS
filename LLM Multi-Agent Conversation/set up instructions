@@ -1,0 +1,16 @@
+## Setup Instructions
+
+1. Clone the repository.
+2. Create and activate a virtual environment.
+3. Install dependencies with `pip install -r requirements.txt`.
+4. Create a `.env` file in the project root.
+5. Add your API keys:
+   - `OPENAI_API_KEY`
+   - `GROQ_API_KEY`
+   - `GOOGLE_API_KEY` (optional if not using Gemini)
+6. Run the notebook or script after selecting the correct Python kernel.
+
+## Notes
+- Never hardcode API keys in notebooks or Python files.
+- Never push `.env` to GitHub.
+- Make sure Ollama is running locally if using local models.
