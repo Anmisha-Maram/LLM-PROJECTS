@@ -1,4 +1,4 @@
-# Day 1: USA Trip Budget Planner
+# USA Trip Budget Planner
 
 **Budget-aware travel planning agent** using LLM reasoning to create optimized USA trip itineraries based on budget constraints, destinations, and preferences.
 
