@@ -1,4 +1,4 @@
-# Week 1: Dual-API Technical Q&A Agent (OpenAI + Ollama)
+# Dual-API Technical Q&A Agent (OpenAI + Ollama)
 
 **Hybrid local/cloud technical assistant** that handles complex technical questions using OpenAI API + Ollama tool calling, delivering step-by-step explanations.
 
