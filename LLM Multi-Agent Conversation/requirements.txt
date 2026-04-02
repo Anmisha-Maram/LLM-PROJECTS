@@ -1,0 +1,7 @@
+openai
+litellm
+python-dotenv
+jupyter
+ipykernel
+requests
+ipywidgets
